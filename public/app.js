@@ -12,7 +12,7 @@ var app = function() {
   liFood.innerText = "Favourite food: Chicken";
 
   var liImg = document.createElement("li");
-  // Photo by Maria - unsplash.com
+  Photo by Maria - unsplash.com
   liImg.innerHTML = "<img src='maria-73382.jpg'/>";
 
   // append the li to the ul
